@@ -33,7 +33,7 @@ const NavBar = () => {
   return (
     <>
       <header className={`header ${stickyClass}`}>
-        <div className="logo">H Cars</div>
+        <div className="logo">H ahmad Cars</div>
         <nav className="navbar ">
           <ul className={active ? "navbar active" : " nav.navbar ul"}>
             <li>
